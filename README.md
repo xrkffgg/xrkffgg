@@ -12,5 +12,7 @@
 ```
 
 ![faker][faker]
+> Gif loading a little slow, you can drink a cup of coffee first.
 
-[faker]:https://wx4.sinaimg.cn/mw690/612c0b09ly1ggkrho65ezg208405fkjl.gif
+[faker]:https://user-images.githubusercontent.com/29775873/87002357-02b3c580-c1ec-11ea-9da8-38d5b437fbdf.gif
+
