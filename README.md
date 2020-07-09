@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=xrkffgg.xrkffgg)
-
 ```
   _   _                             _                         
  | \ | | _____   _____ _ __    __ _(_)_   _____   _   _ _ __  
@@ -10,3 +8,5 @@
 ```
 
 ![faker](https://user-images.githubusercontent.com/29775873/87002357-02b3c580-c1ec-11ea-9da8-38d5b437fbdf.gif)
+
+<img src='https://visitor-badge.glitch.me/badge?page_id=xrkffgg.xrkffgg' align='right'/>
