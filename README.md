@@ -11,5 +11,7 @@
                               |___/                    |_|    
 ```
 
-![faker](./assets/faker.gif)
+![faker][faker]
 > Gif loading a little slow, you can drink a cup of coffee first.
+
+[faker]:https://user-images.githubusercontent.com/29775873/87002357-02b3c580-c1ec-11ea-9da8-38d5b437fbdf.gif
