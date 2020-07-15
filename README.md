@@ -1,7 +1,7 @@
 
  <h2>Hi. </h2>
  
-![visitor](https://visitor-badge.glitch.me/badge?page_id=xrkffgg.xrkffgg) ![HitCount](http://hits.dwyl.com/xrkffgg/xrkffgg.svg)
+![](https://visitor-badge.glitch.me/badge?page_id=xrkffgg.xrkffgg) ![](http://hits.dwyl.com/xrkffgg/xrkffgg.svg)
 
 ```
   _   _                             _                         
