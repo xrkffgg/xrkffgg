@@ -1,5 +1,5 @@
 
- <h2>Hi. </h2>
+<h2>Hi, my friend !</h2>
  
 ![](https://visitor-badge.glitch.me/badge?page_id=xrkffgg.xrkffgg) ![](http://hits.dwyl.com/xrkffgg/xrkffgg.svg)
 
