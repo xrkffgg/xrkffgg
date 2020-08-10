@@ -17,8 +17,14 @@
 >
 > Or You can click on the link below to buy me a cup of coffee to drink with you. 😘
 
-<a href="https://www.buymeacoffee.com/xrkffgg" target="_blank">
- <img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="40" width="180" />
-</a>
+<!-- coffee link
+ <a href="https://www.buymeacoffee.com/xrkffgg" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="40" width="180" />
+ </a>
+-->
+
+[![](http://img.shields.io/badge/Buy%20me-a%20coffee-orange?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/xrkffgg)
+[![](http://img.shields.io/badge/Give%20me-a%20love-blue?style=flat-square&logo=Alipay)](https://github.com/xrkffgg/Kvue/blob/master/src/assets/jpg/zfb.png)
+[![](http://img.shields.io/badge/Give%20me-a%20sponsor-green?style=flat-square&logo=WeChat)](https://github.com/xrkffgg/Kvue/blob/master/src/assets/jpg/vx.png)
 
 [faker]:https://user-images.githubusercontent.com/29775873/87002357-02b3c580-c1ec-11ea-9da8-38d5b437fbdf.gif
