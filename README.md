@@ -13,6 +13,15 @@
 ```
 
 ![faker][faker]
+
 > Gif loading a little slow, you can drink a cup of coffee first.
+>
+> Or You can click on the link below to buy me a cup of coffee to drink with you. 😘
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/xrkffgg" target="_blank">
+   <img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="40" width="180" />
+  </a>
+</p>
 
 [faker]:https://user-images.githubusercontent.com/29775873/87002357-02b3c580-c1ec-11ea-9da8-38d5b437fbdf.gif
