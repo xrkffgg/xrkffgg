@@ -24,7 +24,7 @@
 -->
 
 [![](http://img.shields.io/badge/Buy%20me-a%20coffee-orange?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/xrkffgg)
-[![](http://img.shields.io/badge/Give%20me-a%20love-blue?style=flat-square&logo=Alipay)](https://github.com/xrkffgg/xrkffgg/master/image/zfb.png)
-[![](http://img.shields.io/badge/Give%20me-a%20sponsor-green?style=flat-square&logo=WeChat)](https://github.com/xrkffgg/xrkffgg/master/image/vx.png)
+[![](http://img.shields.io/badge/Give%20me-a%20love-blue?style=flat-square&logo=Alipay)](https://github.com/xrkffgg/xrkffgg/blob/master/image/zfb.png)
+[![](http://img.shields.io/badge/Give%20me-a%20sponsor-green?style=flat-square&logo=WeChat)](https://github.com/xrkffgg/xrkffgg/blob/master/image/vx.png)
 
 [faker]:https://user-images.githubusercontent.com/29775873/87002357-02b3c580-c1ec-11ea-9da8-38d5b437fbdf.gif
