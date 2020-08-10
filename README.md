@@ -12,7 +12,7 @@
                               |___/                    |_|    
 ```
 
-![faker][faker]
+<img src="https://media1.tenor.com/images/722a0bf68e08568157c46d28ec3fff24/tenor.gif?itemid=18060866" />
 
 > Gif loading a little slow, you can drink a cup of coffee first.
 >
@@ -23,5 +23,3 @@
    <img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="40" width="180" />
   </a>
 </p>
-
-[faker]:https://user-images.githubusercontent.com/29775873/87002357-02b3c580-c1ec-11ea-9da8-38d5b437fbdf.gif
