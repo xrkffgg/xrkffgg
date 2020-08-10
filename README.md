@@ -12,7 +12,7 @@
                               |___/                    |_|    
 ```
 
-<img src="https://media1.tenor.com/images/722a0bf68e08568157c46d28ec3fff24/tenor.gif?itemid=18060866" />
+  <img align="right" alt="GIF" src="https://media1.tenor.com/images/9e7705fbfd62359fcf3e042ea0bc5288/tenor.gif?itemid=18060866" />
 
 > Gif loading a little slow, you can drink a cup of coffee first.
 >
