@@ -8,7 +8,7 @@ I'm **xrkffgg**, a Front-end developer form 🇨🇳 **China**. I am an open sou
 | :--:|:--:| :--: |
 | ant-design | ant-design-vue | react-component |
 
-<h3> <img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="28" /> My friend, I want to share with you. </h3>
+<h3> <img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="28" /> My friend, I want to share with you</h3>
 
 ```
   _   _                             _                         
