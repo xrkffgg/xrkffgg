@@ -1,6 +1,6 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
  
-![](https://visitor-badge.glitch.me/badge?page_id=xrkffgg.xrkffgg) ![](http://hits.dwyl.com/xrkffgg/xrkffgg.svg)
+![](https://visitor-badge.glitch.me/badge?page_id=xrkffgg.xrkffgg) ![](http://hits.dwyl.com/xrkffgg/xrkffgg.svg) [![](https://img.shields.io/badge/follow-me-inactive?logo=github&style=flat-square)](https://github.com/xrkffgg) [![](https://img.shields.io/badge/follow-me-blue?logo=twitter&style=flat-square)](https://twitter.com/xrkffgg)
 
 I'm **xrkffgg**, a Front-end developer form **China** <img src="https://image.flaticon.com/icons/svg/630/630667.svg" width="28" />. I am an open source enthusiast. In most cases, active in 
 
