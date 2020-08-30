@@ -8,7 +8,7 @@ I'm **xrkffgg**, a Front-end developer form **China** <img src="https://image.fl
 | :--:|:--:| :--: |
 | ant-design | ant-design-vue | react-component |
 
-<h3> <img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="28" /> Remember.</h3>
+<h3> <img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="28" /> Remember</h3>
 
 ```
   _   _                             _                         
