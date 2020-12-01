@@ -28,10 +28,10 @@ At the same time I also maintaining
   <tr>
     <td>
       <a href="https://github.com/xrkffgg/Kvue">
-        <img src="https://img.shields.io/badge/K-vue-%23389e0d?style=flat-square" />
+        <img src="https://img.shields.io/badge/K-vue-%232ea44f?style=flat-square" />
       </a>
     </td>
-    <td>A code exercise using Vue.</td>
+    <td>A coding exercise using Vue.</td>
   </tr>
   <tr>
     <td>
