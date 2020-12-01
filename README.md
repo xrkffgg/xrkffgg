@@ -28,7 +28,7 @@ At the same time I also maintaining
   <tr>
     <td>
       <a href="https://github.com/xrkffgg/Kvue">
-        <img src="https://img.shields.io/badge/K-vue-%2352c41a?style=flat-square" />
+        <img src="https://img.shields.io/badge/K-vue-%23389e0d?style=flat-square" />
       </a>
     </td>
     <td>A code exercise using Vue.</td>
