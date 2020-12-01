@@ -20,7 +20,7 @@ At the same time I also maintaining
   <tr>
     <td align="right">
       <a href="https://github.com/xrkffgg/Knotes">
-        <img src="https://img.shields.io/badge/K-notes-%2361dafb?style=flat-square" />
+        <img src="https://img.shields.io/badge/K-notes-%231890ff?style=flat-square" />
       </a>
     </td>
     <td>A blog displayed using vuepress.</td>
@@ -28,7 +28,7 @@ At the same time I also maintaining
   <tr>
     <td align="right">
       <a href="https://github.com/xrkffgg/Kvue">
-        <img src="https://img.shields.io/badge/K-vue-%235bc49f?style=flat-square" />
+        <img src="https://img.shields.io/badge/K-vue-%234fc08d?style=flat-square" />
       </a>
     </td>
     <td>A code exercise using Vue.</td>
