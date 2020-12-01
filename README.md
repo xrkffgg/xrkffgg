@@ -10,7 +10,7 @@ At the same time I also maintaining
 
 <table>
   <tr>
-    <td align="right">
+    <td>
       <a href="https://github.com/xrkffgg/Ktools">
         <img src="https://img.shields.io/badge/K-tools-%239287e7?style=flat-square" />
       </a>
@@ -18,7 +18,7 @@ At the same time I also maintaining
     <td>A tool that can help you.</td>
   </tr>
   <tr>
-    <td align="right">
+    <td>
       <a href="https://github.com/xrkffgg/Knotes">
         <img src="https://img.shields.io/badge/K-notes-%231890ff?style=flat-square" />
       </a>
@@ -26,15 +26,15 @@ At the same time I also maintaining
     <td>A blog displayed using vuepress.</td>
   </tr>
   <tr>
-    <td align="right">
+    <td>
       <a href="https://github.com/xrkffgg/Kvue">
-        <img src="https://img.shields.io/badge/K-vue-%234fc08d?style=flat-square" />
+        <img src="https://img.shields.io/badge/K-vue-%2352c41a?style=flat-square" />
       </a>
     </td>
     <td>A code exercise using Vue.</td>
   </tr>
   <tr>
-    <td align="right">
+    <td>
       <a href="https://github.com/xrkffgg/k-progress">
         <img src="https://img.shields.io/badge/K-progress-%23ff7875?style=flat-square" />
       </a>
