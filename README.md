@@ -41,6 +41,14 @@ At the same time I also maintaining
     </td>
     <td>A Vue plugin, linear progress bar.</td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/xrkffgg/react-image-shadow">
+        <img src="https://img.shields.io/badge/react-image--shadow-orange?style=flat-square" />
+      </a>
+    </td>
+    <td>A React image plugin. Simple realization of image shadow.</td>
+  </tr>
 </table>
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="28" /> Remember</h3>
