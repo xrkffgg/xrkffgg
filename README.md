@@ -2,9 +2,9 @@
 
 I'm **xrkffgg**, a Front-end developer from **China** <img src="https://image.flaticon.com/icons/svg/630/630667.svg" width="28" />. In most cases, active in
 
-| [<img src="https://avatars1.githubusercontent.com/u/12101536?s=200&v=4" width="40"/>](https://github.com/ant-design/ant-design)| [<img src="https://avatars1.githubusercontent.com/u/73024040?s=200&v=4" width="40" />](https://github.com/ant-design-colorful/ant-design-colorful) | [<img src="https://avatars2.githubusercontent.com/u/32120805?s=200&v=4" width="40" />](https://github.com/vueComponent/ant-design-vue)| [<img src="https://avatars3.githubusercontent.com/u/9441414?s=200&v=4" width="40" />](https://github.com/react-component) | [<img src="https://avatars1.githubusercontent.com/u/70757173?s=200&v=4" width="40" />](https://github.com/zoo-js) |
-| :--:| :--: | :--: | :--: | :--: |
-| ant-design | ant-design-colorful | ant-design-vue | react-component | zoo-js |
+| [<img src="https://avatars1.githubusercontent.com/u/12101536?s=200&v=4" width="40"/>](https://github.com/ant-design/ant-design)| [<img src="https://avatars1.githubusercontent.com/u/73024040?s=200&v=4" width="40" />](https://github.com/ant-design-colorful/ant-design-colorful) | [<img src="https://avatars2.githubusercontent.com/u/32120805?s=200&v=4" width="40" />](https://github.com/vueComponent/ant-design-vue)| [<img src="https://avatars3.githubusercontent.com/u/9441414?s=200&v=4" width="40" />](https://github.com/react-component) | [<img src="https://avatars1.githubusercontent.com/u/70757173?s=200&v=4" width="40" />](https://github.com/zoo-js) | [<img src="https://avatars1.githubusercontent.com/u/75532006?s=200&v=4" width="40" />](https://github.com/image-tool) |
+| :--:| :--: | :--: | :--: | :--: | :--: |
+| ant-design | ant-design-colorful | ant-design-vue | react-component | zoo-js | image-tool |
 
 At the same time I also maintaining
 
@@ -40,14 +40,6 @@ At the same time I also maintaining
       </a>
     </td>
     <td>A Vue plugin, linear progress bar.</td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/xrkffgg/react-image-shadow">
-        <img src="https://img.shields.io/badge/react-image--shadow-orange?style=flat-square" />
-      </a>
-    </td>
-    <td>A React image plugin. Simple realization of image shadow.</td>
   </tr>
 </table>
 
