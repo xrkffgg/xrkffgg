@@ -26,21 +26,17 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://image.fl
     </td>
   </tr>
   <tr>
-    <td align="left">
-      <a href="https://github.com/ant-design/ant-design"><img src="https://placehold.it/40/2e74ff/2e74ff?text=+" width="10"/></a>
-      &nbsp;ant-design
+    <td align="center">
+      ant-design
     </td>
-    <td align="left">
-      <a href="https://github.com/vueComponent/ant-design-vue"><img src="https://placehold.it/40/36cfc9/36cfc9?text=+" width="10"/></a>
+    <td align="center">
       ant-design-vue
     </td>
-    <td align="left">
-      <a href="https://github.com/react-component"><img src="https://placehold.it/40/61dafb/61dafb?text=+" width="10"/></a>
-      &nbsp;react-component
+    <td align="center">
+      react-component
     </td>
-    <td align="left">
-      <a href="https://github.com/umijs"><img src="https://placehold.it/40/b37feb/b37feb?text=+" width="10"/></a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;umijs
+    <td align="center">
+      umijs
     </td>
   </tr>
 
@@ -67,20 +63,16 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://image.fl
     </td>
   </tr>
   <tr>
-    <td align="left">
-      <a href="https://github.com/actions-cool"><img src="https://placehold.it/40/42a5f5/42a5f5?text=+" width="10"/></a>
+    <td align="center">
       actions-cool
     </td>
-    <td align="left">
-      <a href="https://github.com/zoo-js"><img src="https://placehold.it/40/3dc285/3dc285?text=+" width="10"/></a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;zoo-js
+    <td align="center">
+      zoo-js
     </td>
-    <td align="left">
-      <a href="https://github.com/image-component"><img src="https://placehold.it/40/85a5ff/85a5ff?text=+" width="10"/></a>
+    <td align="center">
       image-component
     </td>
-    <td align="left">
-      <a href="https://github.com/one-template"><img src="https://placehold.it/40/e97b83/e97b83?text=+" width="10"/></a>
+    <td align="center">
       one-template
     </td>
   </tr>
