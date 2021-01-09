@@ -26,16 +26,16 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://image.fl
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="160">
       ant-design
     </td>
-    <td align="center">
+    <td align="center" width="160">
       ant-design-vue
     </td>
-    <td align="center">
+    <td align="center" width="160">
       react-component
     </td>
-    <td align="center">
+    <td align="center" width="160">
       umijs
     </td>
   </tr>
@@ -63,16 +63,16 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://image.fl
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="160">
       actions-cool
     </td>
-    <td align="center">
+    <td align="center" width="160">
       zoo-js
     </td>
-    <td align="center">
+    <td align="center" width="160">
       image-component
     </td>
-    <td align="center">
+    <td align="center" width="160">
       one-template
     </td>
   </tr>
