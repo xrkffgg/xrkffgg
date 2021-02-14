@@ -5,17 +5,10 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://image.fl
 <table>
   <tr>
     <td align="center" width="160">
-      <a href="https://github.com/ant-design/ant-design">
+      <a href="https://github.com/ant-design">
         <img src="https://avatars1.githubusercontent.com/u/12101536?s=200&v=4" width="50" />
         <br />
         ant-design
-      </a>
-    </td>
-    <td align="center" width="160">
-      <a href="https://github.com/vueComponent/ant-design-vue">
-        <img src="https://avatars2.githubusercontent.com/u/32120805?s=200&v=4" width="50" />
-        <br />
-        ant-design-vue
       </a>
     </td>
     <td align="center" width="160">
@@ -23,6 +16,13 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://image.fl
         <img src="https://avatars1.githubusercontent.com/u/9441414?s=200&v=4" width="50" />
         <br />
         react-component
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/vueComponent">
+        <img src="https://avatars2.githubusercontent.com/u/32120805?s=200&v=4" width="50" />
+        <br />
+        vueComponent
       </a>
     </td>
     <td align="center" width="160">
