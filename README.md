@@ -63,7 +63,7 @@ At the same time I also maintaining
                                           |___/
 ```
 
-<h3> <img src="https://emojis.slackmojis.com/emojis/images/1599039789/10382/cat_good.png?1599039789" width="28" /> Daily Quotations</h3>
+<h3> <img src="https://emojis.slackmojis.com/emojis/images/1600987727/10624/chillwcat_youtube.png?1600987727" width="28" /> Daily Quotations</h3>
 
 <kbd>2021-02-23</kbd>
 
