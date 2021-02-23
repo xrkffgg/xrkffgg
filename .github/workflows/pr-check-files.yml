@@ -1,0 +1,21 @@
+name: Verify Files
+
+on:
+  pull_request_target:
+    types: [opened, edited, reopened, synchronize, ready_for_review]
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: verify-version
+        uses: actions-cool/verify-files-modify@v1.1.0
+        with:
+          allowed-files: 'quotations.md'
+          assignees: 'xrkffgg'
+          skip-verify-authority: 'write'
+          comment: |
+            Hi @${{ github.event.pull_request.user.login }}. Thanks for your contribution. This repo only suppory modify `quotations.md`. I will review this PR later.
+            
+            你好，@${{ github.event.pull_request.user.login }}。感谢你的贡献，当前仓库只支持修改 `quotations.md`。稍候我将对这个 PR 进行 Review。
+          close: true
