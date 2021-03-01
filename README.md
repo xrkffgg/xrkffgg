@@ -65,9 +65,9 @@ At the same time I also maintaining
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1600987727/10624/chillwcat_youtube.png?1600987727" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2021-02-28</kbd>
+<kbd>2021-03-01</kbd>
 
-- Life was a box of chocolates, you never know what you're gonna get. —— Forrest Gump
+- 人心中的成见是一座大山，任你怎么努力都休想搬动，一生中能改变命运的机会可不多呀。 ——《哪吒之魔童降世》
 
 <!-- Randomly taken out from quotations.md -->
 
