@@ -2,7 +2,7 @@
 
 ## Randomly taken daily. If you want to add your quotations, welcome send a PR to this below!
 
-- 愿 勇气大于恐惧 热爱胜于枯燥 —— xrkffgg
+- 愿 勇气大于恐惧 热爱胜于枯燥
 - 人生就是这样，求上得中求中得下，求下而不得。职场黄金期，没几年的，你年轻，要跟优秀的人一起做事，学会他们的工作方法，待人处事，不要一直想着要好好做，就单纯的好好去做。所有的学习，最开始都像是在照镜子，无非是学到了，再换一个老师，换一面镜子，直到有一天你发现，新的镜子里是你自己，你就有你自己的方法了，你就可以做别人的镜子了。 ——《流金岁月》
 - Am I a machine without feelings? Do you think that because I am poor, obscure, plain and little that I am souless and heartless? I have as much as soul as you and full as much herat. And if God had blessed me with beauty and wealth, I could make it as hard fou you to leave me as it is for I to leave you. I'm not speaking to you through mortal flesh. It is my spirit that addresses your spirit, as if we'd passed through the grave and stood at God's feet, equal, as we are. —— Jane Eyre
 - 人心中的成见是一座大山，任你怎么努力都休想搬动，一生中能改变命运的机会可不多呀。 ——《哪吒之魔童降世》
@@ -15,3 +15,4 @@
 - 曾经我们都以为自己可以为爱情死，其实爱情死不了人，它只会在最疼的地方扎上一针，然后我们欲哭无泪，我们辗转反侧，我们久病成医，我们百炼成钢。你不是风儿，我也不是沙，再缠绵也到不了天涯。 —— 辛夷坞 《致我们终将逝去的青春》
 - Good morning, and in case I don't see you, good afternoon, good evening, and good night! —— The Truman Show
 - 其实我是一个演员。 —— 周星驰 《喜剧之王》
+- 有些事本来很遥远，你争取，它就会离你越来越近
