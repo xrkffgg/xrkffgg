@@ -65,9 +65,9 @@ At the same time I also maintaining
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1600987727/10624/chillwcat_youtube.png?1600987727" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2021-03-03</kbd>
+<kbd>2021-03-04</kbd>
 
-- 愿 勇气大于恐惧 热爱胜于枯燥 —— xrkffgg
+- Life was a box of chocolates, you never know what you're gonna get. —— Forrest Gump
 
 <!-- Randomly taken out from quotations.md -->
 
