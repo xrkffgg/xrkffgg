@@ -65,9 +65,9 @@ At the same time I also maintaining
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1600987727/10624/chillwcat_youtube.png?1600987727" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2021-03-15</kbd>
+<kbd>2021-03-16</kbd>
 
-- You know some birds are not meant to be caged, their feathers are just too bright. —— The Shawshank Redemption
+- 不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。 —— 宫崎骏《千与千寻》
 
 <!-- Randomly taken out from quotations.md -->
 
