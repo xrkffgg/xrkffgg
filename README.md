@@ -65,9 +65,9 @@ At the same time I also do some other
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1600987727/10624/chillwcat_youtube.png?1600987727" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2021-03-28</kbd>
+<kbd>2021-03-29</kbd>
 
-- 我所有的自负都来自于我的自卑，所有的英雄气概都来自于我内心的软弱，所有的振振有词都因为心中满是怀疑。我假装无情，其实是痛恨自己的深情，我以为人生的意义在于四处游荡，其实只是掩饰至今没有找到愿意驻足的地方。 —— 《坦白书》
+- You know some birds are not meant to be caged, their feathers are just too bright. —— The Shawshank Redemption
 
 <!-- Randomly taken out from quotations.md -->
 
