@@ -28,7 +28,7 @@ function run() {
 
 ${dayily}
 
-<!-- Randomly taken out from quotations.md -->
+<!-- Randomly taken from quotations.md -->
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=xrkffgg.xrkffgg" />
