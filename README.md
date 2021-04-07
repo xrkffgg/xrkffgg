@@ -65,11 +65,11 @@ At the same time I also do some other
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1600987727/10624/chillwcat_youtube.png?1600987727" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2021-04-06</kbd>
+<kbd>2021-04-07</kbd>
 
-- 人生就是这样，求上得中求中得下，求下而不得。职场黄金期，没几年的，你年轻，要跟优秀的人一起做事，学会他们的工作方法，待人处事，不要一直想着要好好做，就单纯的好好去做。所有的学习，最开始都像是在照镜子，无非是学到了，再换一个老师，换一面镜子，直到有一天你发现，新的镜子里是你自己，你就有你自己的方法了，你就可以做别人的镜子了。 ——《流金岁月》
+- 当你仰望星辰，请将其中一颗当成我的灵魂。 —— 擎天柱 《变形金刚 4》
 
-<!-- Randomly taken out from quotations.md -->
+<!-- Randomly taken from quotations.md -->
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=xrkffgg.xrkffgg" />
