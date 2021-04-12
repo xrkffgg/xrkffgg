@@ -65,9 +65,9 @@ At the same time I also do some other
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1600987727/10624/chillwcat_youtube.png?1600987727" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2021-04-11</kbd>
+<kbd>2021-04-12</kbd>
 
-- 观察得越仔细，越看不清真相。
+- 做你该做的事，并且接受它的事与愿违，我们需要努力，但是也许我们努力了，我们最终依然是竹篮打水一场空，但并不代表着我们不应该努力。
 
 <!-- Randomly taken from quotations.md -->
 
