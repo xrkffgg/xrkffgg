@@ -32,7 +32,6 @@ ${dayily}
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=xrkffgg.xrkffgg" />
-<img src="http://hits.dwyl.com/xrkffgg/xrkffgg.svg" />
 </p>
 `;
 
