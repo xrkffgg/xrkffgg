@@ -65,9 +65,9 @@ At the same time I also do some other
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1600987727/10624/chillwcat_youtube.png?1600987727" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2021-04-26</kbd>
+<kbd>2021-04-27</kbd>
 
-- You know some birds are not meant to be caged, their feathers are just too bright. —— The Shawshank Redemption
+- 观察得越仔细，越看不清真相。
 
 <!-- Randomly taken from quotations.md -->
 
