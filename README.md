@@ -65,9 +65,9 @@ At the same time I also do some other
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1600987727/10624/chillwcat_youtube.png?1600987727" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2021-04-29</kbd>
+<kbd>2021-04-30</kbd>
 
-- Am I a machine without feelings? Do you think that because I am poor, obscure, plain and little that I am souless and heartless? I have as much as soul as you and full as much herat. And if God had blessed me with beauty and wealth, I could make it as hard fou you to leave me as it is for I to leave you. I'm not speaking to you through mortal flesh. It is my spirit that addresses your spirit, as if we'd passed through the grave and stood at God's feet, equal, as we are. —— Jane Eyre
+- 曾经有一份真诚的爱情放在我面前，我没有珍惜，等我失去的时候我才后悔莫及，人世间最痛苦的事莫过于此。如果上天能够给我一个再来一次的机会，我会对那个女孩子说三个字：我爱你。如果非要在这份爱上加上一个期限，我希望是……一万年。 —— 周星驰 《大话西游》
 
 <!-- Randomly taken from quotations.md -->
 
