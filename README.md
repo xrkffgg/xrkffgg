@@ -65,9 +65,9 @@ At the same time I also do some other
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1600987727/10624/chillwcat_youtube.png?1600987727" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2021-05-02</kbd>
+<kbd>2021-05-03</kbd>
 
-- Good morning, and in case I don't see you, good afternoon, good evening, and good night! —— The Truman Show
+- 不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。 —— 宫崎骏《千与千寻》
 
 <!-- Randomly taken from quotations.md -->
 
