@@ -65,9 +65,9 @@ At the same time I also do some other
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1600987727/10624/chillwcat_youtube.png?1600987727" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2021-05-15</kbd>
+<kbd>2021-05-16</kbd>
 
-- 有些事本来很遥远，你争取，它就会离你越来越近。
+- 愿 勇气大于恐惧 热爱胜于枯燥
 
 <!-- Randomly taken from quotations.md -->
 
