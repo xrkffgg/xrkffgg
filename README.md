@@ -47,7 +47,6 @@ At the same time I also do some other
 [![](https://img.shields.io/badge/zoo-js-ff69b4?style=flat-square)](https://github.com/zoo-js)
 [![](https://img.shields.io/badge/image-component-fa8c16?style=flat-square)](https://github.com/image-component)
 [![](https://img.shields.io/badge/one-template-08979c?style=flat-square)](https://github.com/one-template)
-[![](https://img.shields.io/badge/compare-similarity-%23ff4d4f?style=flat-square)](https://github.com/xrkffgg/compare-similarity)
 [![](https://img.shields.io/badge/K-tools-%239287e7?style=flat-square)](https://github.com/xrkffgg/Ktools)
 [![](https://img.shields.io/badge/K-notes-%231890ff?style=flat-square)](https://github.com/xrkffgg/Knotes)
 [![](https://img.shields.io/badge/K-vue-3eaf7c?style=flat-square)](https://github.com/xrkffgg/Kvue)
