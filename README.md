@@ -64,9 +64,9 @@ At the same time I also do some other
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1600987727/10624/chillwcat_youtube.png?1600987727" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2021-06-01</kbd>
+<kbd>2021-06-02</kbd>
 
-- 愿 勇气大于恐惧 热爱胜于枯燥
+- You know some birds are not meant to be caged, their feathers are just too bright. —— The Shawshank Redemption
 
 <!-- Randomly taken from quotations.md -->
 
