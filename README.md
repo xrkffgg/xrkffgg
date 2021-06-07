@@ -44,9 +44,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://image.fl
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1600987727/10624/chillwcat_youtube.png?1600987727" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2021-06-06</kbd>
+<kbd>2021-06-07</kbd>
 
-- 人心中的成见是一座大山，任你怎么努力都休想搬动，一生中能改变命运的机会可不多呀。 ——《哪吒之魔童降世》
+- 观察得越仔细，越看不清真相。
 
 <!-- Randomly taken from quotations.md -->
 
