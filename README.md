@@ -42,7 +42,7 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://image.fl
   </tr>
 </table>
 
-<h3> <img src="https://emojis.slackmojis.com/emojis/images/1600987727/10624/chillwcat_youtube.png?1600987727" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
+<h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
 <kbd>2021-06-10</kbd>
 
