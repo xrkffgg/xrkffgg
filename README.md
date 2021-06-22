@@ -44,9 +44,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://image.fl
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2021-06-21</kbd>
+<kbd>2021-06-22</kbd>
 
-- 有些事本来很遥远，你争取，它就会离你越来越近。
+- 一只船孤独的航行在海上，它既不寻求幸福，也不逃避幸福，它只是向前航行，底下是沉静碧蓝的大海，而头顶是金色的太阳。
 
 <!-- Randomly taken from quotations.md -->
 
