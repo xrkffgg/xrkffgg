@@ -16,8 +16,8 @@ jobs:
       - name: Commit and push if changed
         run: |-
           git diff
-          git config --global user.email "xrkffgg@vip.qq.com"
-          git config --global user.name "xrkffgg"
+          git config --global user.email "bot@github.com"
+          git config --global user.name "github-bot"
           git pull
           git add -A
           git commit -m "🤖 Auto Update Daily Quotations" || exit 0
