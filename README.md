@@ -44,9 +44,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://image.fl
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2021-08-30</kbd>
+<kbd>2021-08-31</kbd>
 
-- 有些事本来很遥远，你争取，它就会离你越来越近。
+- 生如蝼蚁，当立鸿鹄之志。命薄如纸，应有不屈之心。大丈夫生于天地间，岂能郁郁久居人下。乾坤未定，你我皆是黑马。
 
 <!-- Randomly taken from quotations.md -->
 
