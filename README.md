@@ -44,7 +44,7 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://image.fl
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2021-10-03</kbd>
+<kbd>2021-10-04</kbd>
 
 - 愿 勇气大于恐惧 热爱胜于枯燥
 
