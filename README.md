@@ -44,9 +44,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://image.fl
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2021-11-17</kbd>
+<kbd>2021-11-18</kbd>
 
-- 生如蝼蚁，当立鸿鹄之志。命薄如纸，应有不屈之心。大丈夫生于天地间，岂能郁郁久居人下。乾坤未定，你我皆是黑马。
+- 且视他人之疑目如盏盏鬼火，大胆地去走你的夜路。 —— 史铁生《病隙碎笔》
 
 <!-- Randomly taken from quotations.md -->
 
