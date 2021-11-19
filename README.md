@@ -44,9 +44,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://image.fl
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2021-11-18</kbd>
+<kbd>2021-11-19</kbd>
 
-- 且视他人之疑目如盏盏鬼火，大胆地去走你的夜路。 —— 史铁生《病隙碎笔》
+- 想起来全是问题，做起来才有答案。 —— 王兴的饭否
 
 <!-- Randomly taken from quotations.md -->
 
