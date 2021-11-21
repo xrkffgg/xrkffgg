@@ -53,9 +53,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2021-11-20</kbd>
+<kbd>2021-11-21</kbd>
 
-- Good morning, and in case I don't see you, good afternoon, good evening, and good night! —— The Truman Show
+- 人永远不知道，谁哪次不经意的跟你说了再见之后，就真的不会再见了。 —— 宫崎骏《千与千寻》
 
 <!-- Randomly taken from quotations.md -->
 
