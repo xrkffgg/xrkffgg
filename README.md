@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2022-01-01</kbd>
+<kbd>2022-01-02</kbd>
 
-- Life was a box of chocolates, you never know what you're gonna get. —— Forrest Gump
+- 你日渐平庸，甘于平庸，将继续平庸。 —— 《以自己喜欢的方式过一生》
 
 <!-- Randomly taken from quotations.md -->
 
