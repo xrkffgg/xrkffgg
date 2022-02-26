@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2022-02-25</kbd>
+<kbd>2022-02-26</kbd>
 
-- 人心中的成见是一座大山，任你怎么努力都休想搬动，一生中能改变命运的机会可不多呀。 ——《哪吒之魔童降世》
+- 我将融入剧烈争斗的大人世界，要在那边孤军奋战，必须变得比任何人都坚不可摧。 —— 《海边的卡夫卡》
 
 <!-- Randomly taken from quotations.md -->
 
