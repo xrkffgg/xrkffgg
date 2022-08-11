@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2022-08-10</kbd>
+<kbd>2022-08-11</kbd>
 
-- 曾经我们都以为自己可以为爱情死，其实爱情死不了人，它只会在最疼的地方扎上一针，然后我们欲哭无泪，我们辗转反侧，我们久病成医，我们百炼成钢。你不是风儿，我也不是沙，再缠绵也到不了天涯。 —— 辛夷坞 《致我们终将逝去的青春》
+- Am I a machine without feelings? Do you think that because I am poor, obscure, plain and little that I am souless and heartless? I have as much as soul as you and full as much herat. And if God had blessed me with beauty and wealth, I could make it as hard fou you to leave me as it is for I to leave you. I'm not speaking to you through mortal flesh. It is my spirit that addresses your spirit, as if we'd passed through the grave and stood at God's feet, equal, as we are. —— Jane Eyre
 
 <!-- Randomly taken from quotations.md -->
 
