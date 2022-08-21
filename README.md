@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2022-08-20</kbd>
+<kbd>2022-08-21</kbd>
 
-- 曾经我们都以为自己可以为爱情死，其实爱情死不了人，它只会在最疼的地方扎上一针，然后我们欲哭无泪，我们辗转反侧，我们久病成医，我们百炼成钢。你不是风儿，我也不是沙，再缠绵也到不了天涯。 —— 辛夷坞 《致我们终将逝去的青春》
+- 曾经有一份真诚的爱情放在我面前，我没有珍惜，等我失去的时候我才后悔莫及，人世间最痛苦的事莫过于此。如果上天能够给我一个再来一次的机会，我会对那个女孩子说三个字：我爱你。如果非要在这份爱上加上一个期限，我希望是……一万年。 —— 周星驰 《大话西游》
 
 <!-- Randomly taken from quotations.md -->
 
