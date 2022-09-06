@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2022-09-05</kbd>
+<kbd>2022-09-06</kbd>
 
-- 无所畏惧（fearless）不是没有恐惧；而是你依然心怀恐惧，但无论如何都决定要跳进去。
+- 人生激越之处，在于永不停息地向前，背负悲凉，仍有勇气迎接朝阳。 —— 萧红
 
 <!-- Randomly taken from quotations.md -->
 
