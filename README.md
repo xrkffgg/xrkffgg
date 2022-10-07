@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2022-10-06</kbd>
+<kbd>2022-10-07</kbd>
 
-- 当你仰望星辰，请将其中一颗当成我的灵魂。 —— 擎天柱 《变形金刚 4》
+- 愿 勇气大于恐惧 热爱胜于枯燥
 
 <!-- Randomly taken from quotations.md -->
 
