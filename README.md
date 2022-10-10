@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2022-10-09</kbd>
+<kbd>2022-10-10</kbd>
 
-- 一个人觉得最引以为自豪的事情，往往是那些做起来最艰难的事情。这一点你千万不要怀疑。
+- You know some birds are not meant to be caged, their feathers are just too bright. —— The Shawshank Redemption
 
 <!-- Randomly taken from quotations.md -->
 
