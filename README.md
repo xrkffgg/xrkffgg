@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2022-11-04</kbd>
+<kbd>2022-11-05</kbd>
 
-- 想起来全是问题，做起来才有答案。 —— 王兴的饭否
+- 当你仰望星辰，请将其中一颗当成我的灵魂。 —— 擎天柱 《变形金刚 4》
 
 <!-- Randomly taken from quotations.md -->
 
