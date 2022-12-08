@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2022-12-07</kbd>
+<kbd>2022-12-08</kbd>
 
-- 你要克服你的虚荣心、你的炫耀欲，和你时刻想要冲出来、想要出风头的小聪明。
+- 你日渐平庸，甘于平庸，将继续平庸。 —— 《以自己喜欢的方式过一生》
 
 <!-- Randomly taken from quotations.md -->
 
