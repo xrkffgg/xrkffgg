@@ -12,6 +12,9 @@
 - 曾经有一份真诚的爱情放在我面前，我没有珍惜，等我失去的时候我才后悔莫及，人世间最痛苦的事莫过于此。如果上天能够给我一个再来一次的机会，我会对那个女孩子说三个字：我爱你。如果非要在这份爱上加上一个期限，我希望是……一万年。 —— 周星驰 《大话西游》
 - You know some birds are not meant to be caged, their feathers are just too bright. —— The Shawshank Redemption
 - Life was a box of chocolates, you never know what you're gonna get. —— Forrest Gump
+- For My Part I Know Nothing With Any Certainty, But The Sight of Stars Makes Me Dream —— Eklavya11
+-  When a man learns to love, he must bear the risk of hatred – Madara Uchiha
+-  Power is not will, it is the phenomenon of physically making things happen.
 - 曾经我们都以为自己可以为爱情死，其实爱情死不了人，它只会在最疼的地方扎上一针，然后我们欲哭无泪，我们辗转反侧，我们久病成医，我们百炼成钢。你不是风儿，我也不是沙，再缠绵也到不了天涯。 —— 辛夷坞 《致我们终将逝去的青春》
 - Good morning, and in case I don't see you, good afternoon, good evening, and good night! —— The Truman Show
 - 其实我是一个演员。 —— 周星驰 《喜剧之王》
