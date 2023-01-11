@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2023-01-10</kbd>
+<kbd>2023-01-11</kbd>
 
-- 人心中的成见是一座大山，任你怎么努力都休想搬动，一生中能改变命运的机会可不多呀。 ——《哪吒之魔童降世》
+- 且视他人之疑目如盏盏鬼火，大胆地去走你的夜路。 —— 史铁生《病隙碎笔》
 
 <!-- Randomly taken from quotations.md -->
 
