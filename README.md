@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2023-01-28</kbd>
+<kbd>2023-01-29</kbd>
 
-- 且视他人之疑目如盏盏鬼火，大胆地去走你的夜路。 —— 史铁生《病隙碎笔》
+- 我所有的自负都来自于我的自卑，所有的英雄气概都来自于我内心的软弱，所有的振振有词都因为心中满是怀疑。我假装无情，其实是痛恨自己的深情，我以为人生的意义在于四处游荡，其实只是掩饰至今没有找到愿意驻足的地方。 —— 《坦白书》
 
 <!-- Randomly taken from quotations.md -->
 
