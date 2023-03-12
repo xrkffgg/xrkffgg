@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2023-03-11</kbd>
+<kbd>2023-03-12</kbd>
 
-- 你之所以会活的不开心，是因为你太喜欢回头看了，人的这一生很长，不要站在现在的角度去批判过去的自己，除了生病之外，我们所有能感受到的痛苦，都不是真实存在的，而是那么多年的价值观所带来的的，所以即使人生能够重来，相信以当时的心智和当时的阅历，我们还是会做出同样的选择，所以人一定要学会跟自己和解，去接受每一个阶段的自己，无论好坏，这都是你的人生。
+- 我是悲观主义者。别人为胜利而战，我不是。我总是战斗，偶尔会赢。 —— 理查德·斯托曼 
 
 <!-- Randomly taken from quotations.md -->
 
