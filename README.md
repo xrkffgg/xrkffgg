@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2023-04-03</kbd>
+<kbd>2023-04-04</kbd>
 
-- 我是悲观主义者。别人为胜利而战，我不是。我总是战斗，偶尔会赢。 —— 理查德·斯托曼 
+- 人生若有知己相伴固然妙不可言，但那可遇而不可求。真的，也许既不可遇又不可求。可求的只有你自己，你要俯下身去，朝着幽暗深处的自己伸出手去。
 
 <!-- Randomly taken from quotations.md -->
 
