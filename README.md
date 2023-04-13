@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2023-04-12</kbd>
+<kbd>2023-04-13</kbd>
 
-- 做你该做的事，并且接受它的事与愿违，我们需要努力，但是也许我们努力了，我们最终依然是竹篮打水一场空，但并不代表着我们不应该努力。
+- 人生激越之处，在于永不停息地向前，背负悲凉，仍有勇气迎接朝阳。 —— 萧红
 
 <!-- Randomly taken from quotations.md -->
 
