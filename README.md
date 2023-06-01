@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2023-05-31</kbd>
+<kbd>2023-06-01</kbd>
 
-- 曾经有一份真诚的爱情放在我面前，我没有珍惜，等我失去的时候我才后悔莫及，人世间最痛苦的事莫过于此。如果上天能够给我一个再来一次的机会，我会对那个女孩子说三个字：我爱你。如果非要在这份爱上加上一个期限，我希望是……一万年。 —— 周星驰 《大话西游》
+- 人永远不知道，谁哪次不经意的跟你说了再见之后，就真的不会再见了。 —— 宫崎骏《千与千寻》
 
 <!-- Randomly taken from quotations.md -->
 
