@@ -61,6 +61,6 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <!-- Randomly taken from quotations.md -->
 
-<p align="right">
+<!-- <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=xrkffgg.xrkffgg" />
-</p>
+</p> -->
