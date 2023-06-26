@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2023-06-25</kbd>
+<kbd>2023-06-26</kbd>
 
-- 你要看的不仅仅是棋局，还要看棋手藏于心底的谋划。
+- 观察得越仔细，越看不清真相。
 
 <!-- Randomly taken from quotations.md -->
 
