@@ -30,9 +30,6 @@ ${dayily}
 
 <!-- Randomly taken from quotations.md -->
 
-<p align="right">
-<img src="https://visitor-badge.glitch.me/badge?page_id=xrkffgg.xrkffgg" />
-</p>
 `;
 
     fs.writeFileSync('./README.md', newReadme);
