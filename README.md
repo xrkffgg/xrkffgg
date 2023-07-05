@@ -60,7 +60,3 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 - 观察得越仔细，越看不清真相。
 
 <!-- Randomly taken from quotations.md -->
-
-<p align="right">
-<img src="https://visitor-badge.glitch.me/badge?page_id=xrkffgg.xrkffgg" />
-</p>
