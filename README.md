@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2023-08-04</kbd>
+<kbd>2023-08-05</kbd>
 
-- 观察得越仔细，越看不清真相。
+- Life was a box of chocolates, you never know what you're gonna get. —— Forrest Gump
 
 <!-- Randomly taken from quotations.md -->
 
