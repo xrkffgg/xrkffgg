@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2023-08-13</kbd>
+<kbd>2023-08-14</kbd>
 
-- 一只船孤独的航行在海上，它既不寻求幸福，也不逃避幸福，它只是向前航行，底下是沉静碧蓝的大海，而头顶是金色的太阳。
+- 做你该做的事，并且接受它的事与愿违，我们需要努力，但是也许我们努力了，我们最终依然是竹篮打水一场空，但并不代表着我们不应该努力。
 
 <!-- Randomly taken from quotations.md -->
 
