@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2023-10-04</kbd>
+<kbd>2023-10-05</kbd>
 
-- 我将融入剧烈争斗的大人世界，要在那边孤军奋战，必须变得比任何人都坚不可摧。 —— 《海边的卡夫卡》
+- 生如蝼蚁，当立鸿鹄之志。命薄如纸，应有不屈之心。大丈夫生于天地间，岂能郁郁久居人下。乾坤未定，你我皆是黑马。
 
 <!-- Randomly taken from quotations.md -->
 
