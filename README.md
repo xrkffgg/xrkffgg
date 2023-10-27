@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2023-10-26</kbd>
+<kbd>2023-10-27</kbd>
 
-- 想起来全是问题，做起来才有答案。 —— 王兴的饭否
+- 你日渐平庸，甘于平庸，将继续平庸。 —— 《以自己喜欢的方式过一生》
 
 <!-- Randomly taken from quotations.md -->
 
