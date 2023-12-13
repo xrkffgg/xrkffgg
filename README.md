@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2023-12-12</kbd>
+<kbd>2023-12-13</kbd>
 
-- 有些事本来很遥远，你争取，它就会离你越来越近。
+- 你要看的不仅仅是棋局，还要看棋手藏于心底的谋划。
 
 <!-- Randomly taken from quotations.md -->
 
