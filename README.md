@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2023-12-29</kbd>
+<kbd>2023-12-30</kbd>
 
-- 有些事本来很遥远，你争取，它就会离你越来越近。
+- 且视他人之疑目如盏盏鬼火，大胆地去走你的夜路。 —— 史铁生《病隙碎笔》
 
 <!-- Randomly taken from quotations.md -->
 
