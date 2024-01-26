@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2024-01-25</kbd>
+<kbd>2024-01-26</kbd>
 
-- 一个人觉得最引以为自豪的事情，往往是那些做起来最艰难的事情。这一点你千万不要怀疑。
+- 生如蝼蚁，当立鸿鹄之志。命薄如纸，应有不屈之心。大丈夫生于天地间，岂能郁郁久居人下。乾坤未定，你我皆是黑马。
 
 <!-- Randomly taken from quotations.md -->
 
