@@ -55,7 +55,7 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2024-03-20</kbd>
+<kbd>2024-03-21</kbd>
 
 - You know some birds are not meant to be caged, their feathers are just too bright. —— The Shawshank Redemption
 
