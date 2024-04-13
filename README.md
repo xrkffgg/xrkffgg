@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2024-04-12</kbd>
+<kbd>2024-04-13</kbd>
 
-- 曾经我们都以为自己可以为爱情死，其实爱情死不了人，它只会在最疼的地方扎上一针，然后我们欲哭无泪，我们辗转反侧，我们久病成医，我们百炼成钢。你不是风儿，我也不是沙，再缠绵也到不了天涯。 —— 辛夷坞 《致我们终将逝去的青春》
+- 我所有的自负都来自于我的自卑，所有的英雄气概都来自于我内心的软弱，所有的振振有词都因为心中满是怀疑。我假装无情，其实是痛恨自己的深情，我以为人生的意义在于四处游荡，其实只是掩饰至今没有找到愿意驻足的地方。 —— 《坦白书》
 
 <!-- Randomly taken from quotations.md -->
 
