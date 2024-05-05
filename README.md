@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2024-05-04</kbd>
+<kbd>2024-05-05</kbd>
 
-- Good morning, and in case I don't see you, good afternoon, good evening, and good night! —— The Truman Show
+- You know some birds are not meant to be caged, their feathers are just too bright. —— The Shawshank Redemption
 
 <!-- Randomly taken from quotations.md -->
 
