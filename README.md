@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2024-05-06</kbd>
+<kbd>2024-05-07</kbd>
 
-- 我所有的自负都来自于我的自卑，所有的英雄气概都来自于我内心的软弱，所有的振振有词都因为心中满是怀疑。我假装无情，其实是痛恨自己的深情，我以为人生的意义在于四处游荡，其实只是掩饰至今没有找到愿意驻足的地方。 —— 《坦白书》
+- 人生若有知己相伴固然妙不可言，但那可遇而不可求。真的，也许既不可遇又不可求。可求的只有你自己，你要俯下身去，朝着幽暗深处的自己伸出手去。
 
 <!-- Randomly taken from quotations.md -->
 
