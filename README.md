@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2024-06-10</kbd>
+<kbd>2024-06-11</kbd>
 
-- 人永远不知道，谁哪次不经意的跟你说了再见之后，就真的不会再见了。 —— 宫崎骏《千与千寻》
+- 人生激越之处，在于永不停息地向前，背负悲凉，仍有勇气迎接朝阳。 —— 萧红
 
 <!-- Randomly taken from quotations.md -->
 
