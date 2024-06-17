@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2024-06-16</kbd>
+<kbd>2024-06-17</kbd>
 
-- Good morning, and in case I don't see you, good afternoon, good evening, and good night! —— The Truman Show
+- 想起来全是问题，做起来才有答案。 —— 王兴的饭否
 
 <!-- Randomly taken from quotations.md -->
 
