@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2024-07-03</kbd>
+<kbd>2024-07-04</kbd>
 
-- Am I a machine without feelings? Do you think that because I am poor, obscure, plain and little that I am souless and heartless? I have as much as soul as you and full as much herat. And if God had blessed me with beauty and wealth, I could make it as hard fou you to leave me as it is for I to leave you. I'm not speaking to you through mortal flesh. It is my spirit that addresses your spirit, as if we'd passed through the grave and stood at God's feet, equal, as we are. —— Jane Eyre
+- 你之所以会活的不开心，是因为你太喜欢回头看了，人的这一生很长，不要站在现在的角度去批判过去的自己，除了生病之外，我们所有能感受到的痛苦，都不是真实存在的，而是那么多年的价值观所带来的的，所以即使人生能够重来，相信以当时的心智和当时的阅历，我们还是会做出同样的选择，所以人一定要学会跟自己和解，去接受每一个阶段的自己，无论好坏，这都是你的人生。
 
 <!-- Randomly taken from quotations.md -->
 
