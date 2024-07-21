@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2024-07-20</kbd>
+<kbd>2024-07-21</kbd>
 
-- 你之所以会活的不开心，是因为你太喜欢回头看了，人的这一生很长，不要站在现在的角度去批判过去的自己，除了生病之外，我们所有能感受到的痛苦，都不是真实存在的，而是那么多年的价值观所带来的的，所以即使人生能够重来，相信以当时的心智和当时的阅历，我们还是会做出同样的选择，所以人一定要学会跟自己和解，去接受每一个阶段的自己，无论好坏，这都是你的人生。
+- 有些事本来很遥远，你争取，它就会离你越来越近。
 
 <!-- Randomly taken from quotations.md -->
 
