@@ -36,3 +36,4 @@
 - 人生若有知己相伴固然妙不可言，但那可遇而不可求。真的，也许既不可遇又不可求。可求的只有你自己，你要俯下身去，朝着幽暗深处的自己伸出手去。
 - Parfois la vie est belle, mais parfois elle ne l'est pas car son beau profil est caché. **Cherche le** ❤️ —— whoamitty
 - If you are good at something, Never do it for free -- Joker
+- 我希望在我的世界扭曲崩塌的时候能有人捂住我的眼睛 -- 小K 
