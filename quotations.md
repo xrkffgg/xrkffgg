@@ -40,3 +40,6 @@
 - Success is not final, failure is not fatal: It is the courage to continue that counts. — Winston Churchill
 - Believe you can and you're halfway there. — Theodore Roosevelt
 - Never try to be the best, always try to become better, because once you have considered yourself the best your hunger is over and you are done. - Aloukik Joshi
+- If you are good at something, Never do it for free -- Joker
+- Bach is like an astronomer who, with the help of ciphers, finds the most wonderful stars... Beethoven embraced the universe with the power of his spirit... I do not climb so high. A long time ago I decided that my universe will be the soul and heart of man. - Frederic Chopin
+- 我希望在我的世界扭曲崩塌的时候能有人捂住我的眼睛 -- 小K
