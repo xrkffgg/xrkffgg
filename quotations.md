@@ -4,7 +4,7 @@
 
 - 愿 勇气大于恐惧 热爱胜于枯燥
 - 人生就是这样，求上得中求中得下，求下而不得。职场黄金期，没几年的，你年轻，要跟优秀的人一起做事，学会他们的工作方法，待人处事，不要一直想着要好好做，就单纯的好好去做。所有的学习，最开始都像是在照镜子，无非是学到了，再换一个老师，换一面镜子，直到有一天你发现，新的镜子里是你自己，你就有你自己的方法了，你就可以做别人的镜子了。 ——《流金岁月》
-- Am I a machine without feelings? Do you think that because I am poor, obscure, plain and little that I am souless and heartless? I have as much as soul as you and full as much herat. And if God had blessed me with beauty and wealth, I could make it as hard fou you to leave me as it is for I to leave you. I'm not speaking to you through mortal flesh. It is my spirit that addresses your spirit, as if we'd passed through the grave and stood at God's feet, equal, as we are. —— Jane Eyre
+- Am I a machine without feelings? Do you think that because I am poor, obscure, plain and little that I am souless and heartless? I have as much as soul as you and full as much heart. And if God had blessed me with beauty and wealth, I could make it as hard fou you to leave me as it is for I to leave you. I'm not speaking to you through mortal flesh. It is my spirit that addresses your spirit, as if we'd passed through the grave and stood at God's feet, equal, as we are. —— Jane Eyre
 - 人心中的成见是一座大山，任你怎么努力都休想搬动，一生中能改变命运的机会可不多呀。 ——《哪吒之魔童降世》
 - 不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。 —— 宫崎骏《千与千寻》
 - 人永远不知道，谁哪次不经意的跟你说了再见之后，就真的不会再见了。 —— 宫崎骏《千与千寻》
@@ -34,7 +34,12 @@
 - 一个人觉得最引以为自豪的事情，往往是那些做起来最艰难的事情。这一点你千万不要怀疑。
 - 无所畏惧（fearless）不是没有恐惧；而是你依然心怀恐惧，但无论如何都决定要跳进去。
 - 人生若有知己相伴固然妙不可言，但那可遇而不可求。真的，也许既不可遇又不可求。可求的只有你自己，你要俯下身去，朝着幽暗深处的自己伸出手去。
-- Parfois la vie est belle, mais parfois elle ne l'est pas car son beau profil est caché. **Cherche le** ❤️ —— whoamitty
+- The only limit to our realization of tomorrow is our doubts of today. — Franklin D. Roosevelt
+- Keep your face always toward the sunshine—and shadows will fall behind you. — Walt Whitman
+- The best way to predict your future is to create it. — Abraham Lincoln
+- Success is not final, failure is not fatal: It is the courage to continue that counts. — Winston Churchill
+- Believe you can and you're halfway there. — Theodore Roosevelt
+- Never try to be the best, always try to become better, because once you have considered yourself the best your hunger is over and you are done. - Aloukik Joshi
 - If you are good at something, Never do it for free -- Joker
 - Bach is like an astronomer who, with the help of ciphers, finds the most wonderful stars... Beethoven embraced the universe with the power of his spirit... I do not climb so high. A long time ago I decided that my universe will be the soul and heart of man. - Frederic Chopin
-- 我希望在我的世界扭曲崩塌的时候能有人捂住我的眼睛 -- 小K 
+- 我希望在我的世界扭曲崩塌的时候能有人捂住我的眼睛 -- 小K
