@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2024-12-12</kbd>
+<kbd>2024-12-13</kbd>
 
-- 我希望在我的世界扭曲崩塌的时候能有人捂住我的眼睛 -- 小K 
+- 你要克服你的虚荣心、你的炫耀欲，和你时刻想要冲出来、想要出风头的小聪明。
 
 <!-- Randomly taken from quotations.md -->
 
