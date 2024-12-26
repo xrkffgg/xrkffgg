@@ -43,3 +43,6 @@
 - If you are good at something, Never do it for free -- Joker
 - Bach is like an astronomer who, with the help of ciphers, finds the most wonderful stars... Beethoven embraced the universe with the power of his spirit... I do not climb so high. A long time ago I decided that my universe will be the soul and heart of man. - Frederic Chopin
 - 我希望在我的世界扭曲崩塌的时候能有人捂住我的眼睛 -- 小K
+- Human beings are members of a whole, created from the same essence. - Saadi Shirazi
+- This caravan of life passes so strangely; seize the moment that passes in joy. - Omar Khayyam
+- This life you’re clinging to could be far more beautiful if you just let go. - Rumi
