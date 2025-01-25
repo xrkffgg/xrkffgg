@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2025-01-24</kbd>
+<kbd>2025-01-25</kbd>
 
-- 一只船孤独的航行在海上，它既不寻求幸福，也不逃避幸福，它只是向前航行，底下是沉静碧蓝的大海，而头顶是金色的太阳。
+- 你要克服你的虚荣心、你的炫耀欲，和你时刻想要冲出来、想要出风头的小聪明。
 
 <!-- Randomly taken from quotations.md -->
 
