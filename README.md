@@ -59,5 +59,10 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 - 一个人觉得最引以为自豪的事情，往往是那些做起来最艰难的事情。这一点你千万不要怀疑。
 
+<kbd>2025-01-08</kbd>
+
+- 子貢問君子。子曰：「先行其言，而後從之。」（解釋：子貢問君子，孔子說：「先將要說的做出來，然後再說。」）
+
+
 <!-- Randomly taken from quotations.md -->
 
