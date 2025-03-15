@@ -59,5 +59,10 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 - 做你该做的事，并且接受它的事与愿违，我们需要努力，但是也许我们努力了，我们最终依然是竹篮打水一场空，但并不代表着我们不应该努力。
 
+<kbd>2025-01-08</kbd>
+
+- 子貢問君子。子曰：「先行其言，而後從之。」（解釋：子貢問君子，孔子說：「先將要說的做出來，然後再說。」）
+
+
 <!-- Randomly taken from quotations.md -->
 
