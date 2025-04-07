@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2025-04-06</kbd>
+<kbd>2025-04-07</kbd>
 
-- 且视他人之疑目如盏盏鬼火，大胆地去走你的夜路。 —— 史铁生《病隙碎笔》
+- Bach is like an astronomer who, with the help of ciphers, finds the most wonderful stars... Beethoven embraced the universe with the power of his spirit... I do not climb so high. A long time ago I decided that my universe will be the soul and heart of man. - Frederic Chopin
 
 <!-- Randomly taken from quotations.md -->
 
