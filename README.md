@@ -59,5 +59,10 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 - 有些事本来很遥远，你争取，它就会离你越来越近。
 
+<kbd>2025-01-08</kbd>
+
+- 子貢問君子。子曰：「先行其言，而後從之。」（解釋：子貢問君子，孔子說：「先將要說的做出來，然後再說。」）
+
+
 <!-- Randomly taken from quotations.md -->
 
