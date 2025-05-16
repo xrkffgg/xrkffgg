@@ -59,5 +59,10 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 - 一只船孤独的航行在海上，它既不寻求幸福，也不逃避幸福，它只是向前航行，底下是沉静碧蓝的大海，而头顶是金色的太阳。
 
+<kbd>2025-01-08</kbd>
+
+- 子貢問君子。子曰：「先行其言，而後從之。」（解釋：子貢問君子，孔子說：「先將要說的做出來，然後再說。」）
+
+
 <!-- Randomly taken from quotations.md -->
 
