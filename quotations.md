@@ -46,3 +46,4 @@
 - Human beings are members of a whole, created from the same essence. - Saadi Shirazi
 - This caravan of life passes so strangely; seize the moment that passes in joy. - Omar Khayyam
 - This life you’re clinging to could be far more beautiful if you just let go. - Rumi
+- Was mich nicht umbringt, macht mich stärker. —— Friedrich Nietzsche
