@@ -46,4 +46,9 @@
 - Human beings are members of a whole, created from the same essence. - Saadi Shirazi
 - This caravan of life passes so strangely; seize the moment that passes in joy. - Omar Khayyam
 - This life you’re clinging to could be far more beautiful if you just let go. - Rumi
+- Dreams are the blueprints of reality—build wisely. — Jonathan E. Crestwell
+- A single step taken with courage outweighs a thousand steps imagined in fear. — Lillian Hargrave
+- The stars do not ask for permission to shine, and neither should you. — Marcus V. Ellington
+- Strength is not in never falling, but in rising every time with greater resolve. — Eleanor Stratton
+- The echoes of doubt fade when the voice of determination speaks louder. — Samuel D. Whitmore
 - Was mich nicht umbringt, macht mich stärker. —— Friedrich Nietzsche
