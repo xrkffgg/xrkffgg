@@ -51,3 +51,4 @@
 - The stars do not ask for permission to shine, and neither should you. — Marcus V. Ellington
 - Strength is not in never falling, but in rising every time with greater resolve. — Eleanor Stratton
 - The echoes of doubt fade when the voice of determination speaks louder. — Samuel D. Whitmore
+- Was mich nicht umbringt, macht mich stärker. —— Friedrich Nietzsche
