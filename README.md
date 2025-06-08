@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2025-06-07</kbd>
+<kbd>2025-06-08</kbd>
 
-- 无所畏惧（fearless）不是没有恐惧；而是你依然心怀恐惧，但无论如何都决定要跳进去。
+- The only limit to our realization of tomorrow is our doubts of today. — Franklin D. Roosevelt
 
 <!-- Randomly taken from quotations.md -->
 
