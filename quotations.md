@@ -52,3 +52,4 @@
 - Strength is not in never falling, but in rising every time with greater resolve. — Eleanor Stratton
 - The echoes of doubt fade when the voice of determination speaks louder. — Samuel D. Whitmore
 - Was mich nicht umbringt, macht mich stärker. —— Friedrich Nietzsche
+- You cannot swim for new horizons until you have courage to lose sight of the shore. — William Faulkner
