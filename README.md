@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2025-07-27</kbd>
+<kbd>2025-07-28</kbd>
 
-- This life you’re clinging to could be far more beautiful if you just let go. - Rumi
+- The echoes of doubt fade when the voice of determination speaks louder. — Samuel D. Whitmore
 
 <!-- Randomly taken from quotations.md -->
 
