@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2025-09-19</kbd>
+<kbd>2025-09-20</kbd>
 
-- Life was a box of chocolates, you never know what you're gonna get. —— Forrest Gump
+- Life isn’t about finding yourself. Life is about creating yourself. — George Bernard Shaw
 
 <!-- Randomly taken from quotations.md -->
 
