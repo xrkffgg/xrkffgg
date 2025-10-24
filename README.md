@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2025-10-23</kbd>
+<kbd>2025-10-24</kbd>
 
-- Believe you can and you're halfway there. — Theodore Roosevelt
+- Not everything that is faced can be changed, but nothing can be changed until it is faced. — James Baldwin
 
 <!-- Randomly taken from quotations.md -->
 
