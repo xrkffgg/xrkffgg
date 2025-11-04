@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2025-11-03</kbd>
+<kbd>2025-11-04</kbd>
 
-- 人心中的成见是一座大山，任你怎么努力都休想搬动，一生中能改变命运的机会可不多呀。 ——《哪吒之魔童降世》
+- Il faut imaginer Sisyphe heureux, car le travail de la pierre et la fatigue sont à lui, et la lutte elle-même vers les sommets suffit à remplir un cœur d’homme. — Albert Camus
 
 <!-- Randomly taken from quotations.md -->
 
