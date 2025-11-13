@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2025-11-12</kbd>
+<kbd>2025-11-13</kbd>
 
-- Human beings are members of a whole, created from the same essence. - Saadi Shirazi
+- Life isn’t about finding yourself. Life is about creating yourself. — George Bernard Shaw
 
 <!-- Randomly taken from quotations.md -->
 
