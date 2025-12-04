@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2025-12-03</kbd>
+<kbd>2025-12-04</kbd>
 
-- This life you’re clinging to could be far more beautiful if you just let go. - Rumi
+- 当你仰望星辰，请将其中一颗当成我的灵魂。 —— 擎天柱 《变形金刚 4》
 
 <!-- Randomly taken from quotations.md -->
 
