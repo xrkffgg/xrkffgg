@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2026-02-14</kbd>
+<kbd>2026-02-15</kbd>
 
-- Be yourself; everyone else is already taken. — Oscar Wilde
+- 胸怀是被委屈撑大的
 
 <!-- Randomly taken from quotations.md -->
 
