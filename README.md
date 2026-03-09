@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2026-03-08</kbd>
+<kbd>2026-03-09</kbd>
 
-- Il faut imaginer Sisyphe heureux, car le travail de la pierre et la fatigue sont à lui, et la lutte elle-même vers les sommets suffit à remplir un cœur d’homme. — Albert Camus
+- This caravan of life passes so strangely; seize the moment that passes in joy. - Omar Khayyam
 
 <!-- Randomly taken from quotations.md -->
 
