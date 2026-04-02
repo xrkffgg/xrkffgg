@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2026-04-01</kbd>
+<kbd>2026-04-02</kbd>
 
-- Never try to be the best, always try to become better, because once you have considered yourself the best your hunger is over and you are done. - Aloukik Joshi
+- The only limit to our realization of tomorrow is our doubts of today. — Franklin D. Roosevelt
 
 <!-- Randomly taken from quotations.md -->
 
