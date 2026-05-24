@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2026-05-23</kbd>
+<kbd>2026-05-24</kbd>
 
-- You cannot swim for new horizons until you have courage to lose sight of the shore. — William Faulkner
+- Life is what happens when you're busy making other plans. — John Lennon
 
 <!-- Randomly taken from quotations.md -->
 
