@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2026-07-25</kbd>
+<kbd>2026-07-26</kbd>
 
-- 人生激越之处，在于永不停息地向前，背负悲凉，仍有勇气迎接朝阳。 —— 萧红
+- The best way to predict your future is to create it. — Abraham Lincoln
 
 <!-- Randomly taken from quotations.md -->
 
