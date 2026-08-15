@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2026-08-14</kbd>
+<kbd>2026-08-15</kbd>
 
-- Strength is not in never falling, but in rising every time with greater resolve. — Eleanor Stratton
+- 我是悲观主义者。别人为胜利而战，我不是。我总是战斗，偶尔会赢。 —— 理查德·斯托曼 
 
 <!-- Randomly taken from quotations.md -->
 
