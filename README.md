@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2026-09-06</kbd>
+<kbd>2026-09-07</kbd>
 
-- This life you’re clinging to could be far more beautiful if you just let go. - Rumi
+- The only limit to our realization of tomorrow is our doubts of today. — Franklin D. Roosevelt
 
 <!-- Randomly taken from quotations.md -->
 
