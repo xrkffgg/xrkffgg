@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2026-10-03</kbd>
+<kbd>2026-10-04</kbd>
 
-- The stars do not ask for permission to shine, and neither should you. — Marcus V. Ellington
+- Knowledge speaks, but wisdom listens. — Jimi Hendrix
 
 <!-- Randomly taken from quotations.md -->
 
