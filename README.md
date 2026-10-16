@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2026-10-15</kbd>
+<kbd>2026-10-16</kbd>
 
-- 你要看的不仅仅是棋局，还要看棋手藏于心底的谋划。
+- Il faut imaginer Sisyphe heureux, car le travail de la pierre et la fatigue sont à lui, et la lutte elle-même vers les sommets suffit à remplir un cœur d’homme. — Albert Camus
 
 <!-- Randomly taken from quotations.md -->
 
