@@ -55,9 +55,9 @@ I'm **xrkffgg**, a Front-end developer from **China** <img src="https://user-ima
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2026-11-08</kbd>
+<kbd>2026-11-09</kbd>
 
-- Your time is limited, so don’t waste it living someone else’s life. — Steve Jobs
+- Was mich nicht umbringt, macht mich stärker. —— Friedrich Nietzsche
 
 <!-- Randomly taken from quotations.md -->
 
